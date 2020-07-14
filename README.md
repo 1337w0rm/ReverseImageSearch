@@ -10,7 +10,7 @@ Reverse Image Search is a Telegram Bot which do reverse image seraches for you. 
 
 ```sh
 $ git clone https://github.com/1337w0rm/ReverseImageSearch.git
-$ cd Reverse Image Search
+$ cd ReverseImageSearch
 $ pip install -r requirements.txt
 ```
 - Open ```config.py``` file in any text editor.
@@ -26,8 +26,8 @@ $ pip install -r requirements.txt
     
 - Clone this repository on your local system
     ```
-    git clone https://github.com/1337w0rm/Libgen-Telegram-Bot.git
-    cd Reverse Image Search
+    git clone https://github.com/1337w0rm/ReverseImageSearch.git
+    cd ReverseImageSearch
     pip install -r requirements.txt
     ```
  - Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
