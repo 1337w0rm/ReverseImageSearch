@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Reverse Image Search is a Telegram Bot which do reverse image seraches for you. It have bot ```Yandex``` and ```Google``` reverse image search. Just a image to your Bot and reply to that image with ```/yfind``` for Yandex search and ```/gfind``` for Google Search it'll reply back to you with a screenshot of the search and URL to the URL so that you can check the results manually.
+Reverse Image Search is a Telegram Bot which do reverse image seraches for you. It has ```Yandex``` and ```Google``` reverse image search. Just send an image to the Bot and reply to that image with ```/yfind``` for Yandex search and ```/gfind``` for Google Search it'll reply back to you with a screenshot of the search and URL to the search results so that you can check the results manually.
 
 ## Installation
 
